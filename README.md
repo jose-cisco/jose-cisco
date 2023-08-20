@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jose-cisco
-- 👀 I’m interested in machine learning deep learning neural network data science data analyst cyebrsecurity.
+- 👀 I’m interested in machine learning deep learning neural network data science data analyst cybersecurity.
 - 🌱 I’m currently learning to develop myself.
 - 💞️ I’m looking to collaborate on anybody who wants to lift themselves up.
 - 📫 How to reach me u can contact me via gmail here it is cranie1562@gmail.com
