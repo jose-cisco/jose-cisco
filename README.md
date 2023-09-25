@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jose-cisco
+- 👋 Hi, I’m @jose-cisco my real name is PITIPARK JIRAHIRANKIT
 - 👀 I’m interested in machine learning deep learning neural network data science data analyst cybersecurity.
 - 🌱 I’m currently learning to develop myself.
 - 💞️ I’m looking to collaborate on anybody who wants to lift themselves up.
